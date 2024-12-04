@@ -1,0 +1,43 @@
+.a{
+    /* border: 2px dashed red; */
+    text-align: center;
+}
+.a1, .a2, .a3, .a4{
+   
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+
+
+ }
+.a1{
+  width: 300px;
+    
+}
+.a2{
+    width: 300px;
+}
+.a3{
+    width: 300px;
+}
+.a4{
+    width: 300px;
+}
+img{
+    width: 100%;
+}
+h3{
+    font-family: "Karma", serif;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align-last: center;
+}
+h1,p{
+    text-align: center;
+}
+p{
+    font-family: "Karma", serif;
+    font-weight: 400;
+}
